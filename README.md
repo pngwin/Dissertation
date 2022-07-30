@@ -1,2 +1,2 @@
 # Dissertation
-MSc Information Security Dissertation page
+Automatic Generation of Software Descriptions
